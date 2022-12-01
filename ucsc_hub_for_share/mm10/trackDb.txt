@@ -1,0 +1,63 @@
+track ko1
+bigDataUrl bw/mapped_reads.star.KO1.bw
+shortLabel TDP-43 KO1
+longLabel TDP-43 microglia specific KO, replicate 1
+type bigWig
+visibility pack
+itemRgb on
+
+track ko2
+bigDataUrl bw/mapped_reads.star.KO2.bw
+shortLabel TDP-43 KO2
+longLabel TDP-43 microglia specific KO, replicate 2
+type bigWig
+visibility pack
+itemRgb on
+
+track ko3
+bigDataUrl bw/mapped_reads.star.KO3.bw
+shortLabel TDP-43 KO3
+longLabel TDP-43 microglia specific KO, replicate 3
+type bigWig
+visibility pack
+itemRgb on
+
+track ko4
+bigDataUrl bw/mapped_reads.star.KO4.bw
+shortLabel TDP-43 KO4
+longLabel TDP-43 microglia specific KO, replicate 4
+type bigWig
+visibility pack
+itemRgb on
+
+track wt1
+bigDataUrl bw/mapped_reads.star.WT1.bw
+shortLabel TDP-43 WT1
+longLabel TDP-43 microglia specific WT, replicate 1
+type bigWig
+visibility pack
+itemRgb on
+
+track wt2
+bigDataUrl bw/mapped_reads.star.WT2.bw
+shortLabel TDP-43 WT2
+longLabel TDP-43 microglia specific WT, replicate 2
+type bigWig
+visibility pack
+itemRgb on
+
+track wt3
+bigDataUrl bw/mapped_reads.star.WT3.bw
+shortLabel TDP-43 WT3
+longLabel TDP-43 microglia specific WT, replicate 3
+type bigWig
+visibility pack
+itemRgb on
+
+track wt4
+bigDataUrl bw/mapped_reads.star.WT4.bw
+shortLabel TDP-43 WT4
+longLabel TDP-43 microglia specific WT, replicate 4
+type bigWig
+visibility pack
+itemRgb on

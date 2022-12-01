@@ -1,0 +1,6 @@
+hub tdp-43_hub
+shortLabel tdp-43_hub
+longLabel tdp-43_KOnWT_microglia
+genomesFile genomes.txt
+email andranik.ivanov@bihealth.de
+descriptionUrl hub_info.html
